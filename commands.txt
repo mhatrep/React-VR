@@ -1,1 +1,3 @@
-npm install -g react-vr-cli
+$ npm install -g react-vr-cli
+$ react-vr init ReactVR
+
